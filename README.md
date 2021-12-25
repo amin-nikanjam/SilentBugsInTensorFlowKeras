@@ -1,7 +1,7 @@
 # Silent Bugs in TensorFlow and Keras
 This Replication Package is intended for replication of results presented in the paper "Silent Bugs in Deep Learning Frameworks: An Empirical Study of Keras and Tensorflow" submitted to IEEE Transactions on Software Engineering in Dec 2021. It contains the data and artifacts used in the paper.
 
-Our replication package consists of three main folders: Manual_Labelling, Survey, and bugs_list.
+Our replication package consists of three main folders: Manual_Labelling, Survey, and Artifacts.
 
 ## Manual_Labelling
 This folder contains, the file **Keras_Bugs_Sheets.xlsx** contains three sheets:
@@ -12,9 +12,9 @@ This folder contains, the file **Keras_Bugs_Sheets.xlsx** contains three sheets:
 ## Survey
 This folder contains the survey form used for our validation study in the file **Survey_Questionnaire.pdf**. Anonymized information about participants and all their answers to the survey questions are in the file **Responses.csv**. 
 
-## bugs_list
-This directory contains the list of the 77 issues (.JSON format) we extracted from the GitHub API. Note that ID of issue does not go from 1 to 77, see the sheet **Comparison Category** in the file **Keras_Bugs_Sheets.xlsx**.
-
+## Artifacts
 The file **data.csv** contains the list of the 77 issues with the following information: <br />
 Issue number; URL; gis; Final Scenario; Final Component 1; Final Component 2; Impact; Buggy Version; Fixed Version; Fixing commit <br />
 Since it is formatted as ".csv", it can be extracted easily by external tools.
+
+The subfolder **Bugs_in_JSON** contains the list of the 77 issues (.JSON format) we extracted from the GitHub API. Note that ID of issue does not go from 1 to 77, see the sheet **Comparison Category** in the file **Keras_Bugs_Sheets.xlsx**.
