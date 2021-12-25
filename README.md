@@ -1,4 +1,4 @@
-# Silent_Bugs_in_TensorFlow_and_Keras
+# Silent Bugs in TensorFlow and Keras
 This Replication Package is intended for replication of results presented in the paper "Silent Bugs in Deep Learning Frameworks: An Empirical Study of Keras and Tensorflow" submitted to IEEE Transactions on Software Engineering in Dec 2021. It contains the data and artifacts used in the paper.
 
 The file `Keras Bugs Sheets.xlsx` contains three sheets:
