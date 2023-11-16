@@ -1,5 +1,5 @@
 # Silent Bugs in TensorFlow and Keras
-This Replication Package is intended for replication of results presented in the paper ("Silent Bugs in Deep Learning Frameworks: An Empirical Study of Keras and TensorFlow")[https://arxiv.org/abs/2112.13314] accepted for publication by the journal of Empirical Software Engineering in August 2023. It contains the data and artifacts used in the paper.
+This Replication Package is intended for replication of results presented in the paper "Silent Bugs in Deep Learning Frameworks: An Empirical Study of Keras and TensorFlow" [https://arxiv.org/abs/2112.13314] accepted for publication by the journal of Empirical Software Engineering in August 2023. It contains the data and artifacts used in the paper.
 
 Our replication package consists of three main folders: Manual_Labelling, Survey, and Artifacts.
 
